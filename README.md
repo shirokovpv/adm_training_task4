@@ -99,6 +99,7 @@
 <p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">3) Работа со снапшотом, поиск сообщения от преподавателя.</span></span></p>
 <p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">Скачаем файл по ссылке:</span></span></p>
 <p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">wget -O otus_task2.file --no-check-certificate https://drive.usercontent.google.com/download?id=1wgxjih8YZ-cqLqaZVa0lA3h3Y029c3oI&export=download</span></span></p>
+<p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">(wget почему-то повис, но файл скачал)</span></span></p>
 <img width="606" height="238" alt="изображение" src="https://github.com/user-attachments/assets/ff2f4229-6d9c-4b6f-b276-ce4e07cf89c4" />
 <p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify">&nbsp;</p>
 <p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">Восстановим файловую систему из снапшота:</span></span></p>
