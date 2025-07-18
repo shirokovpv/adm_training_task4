@@ -27,6 +27,8 @@
 </ol>
 <p style="line-height: 100%; margin-bottom: 0cm;">&nbsp;</p>
 <h3 class="western"><a name="_heading=h.df570rpzx1qg"></a><span style="font-family: Roboto, serif;"><span style="font-size: small;">Используемые ОС</span></span></h3>
-<p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">Хостовая ОС: Ubuntu 24.04 Desktop, гостевая система Ubuntu 24.04 Desktop.&nbsp;<span style="font-family: Roboto, serif;">VirtualBox версия 7.0.16_Ubuntu r162802</span></span></p>
+<p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">Хостовая ОС: Ubuntu 24.04 Desktop, гостевая система Ubuntu 24.04 Server. VirtualBox версия 7.0.16_Ubuntu r162802</span></span></p>
 <p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify">&nbsp;</p>
 <h3 class="western"><span style="font-family: Roboto, serif;"><span style="font-size: small;">Выполнение</span></span></h3>
+<p style="line-height: 108%; margin-bottom: 0.28cm;" align="justify"><span style="font-family: Roboto, serif;">Добавляем в виртуальную машину 8 дополнительных дисков по 512 MB.</span></span></p>
+<img width="639" height="382" alt="изображение" src="https://github.com/user-attachments/assets/726ad2a4-756d-4c25-83dd-f2acbf402666" />
